@@ -7,6 +7,7 @@
 ![Preview](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJFuXHZ5cXvqGB_-0zk6D6mYTvITWrcNsK0Q&s)
 
 ## 📝 Описание
+Веб-приложения для заказов кофейни
 
 ## ⚙️ Требования
 
