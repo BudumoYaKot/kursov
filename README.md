@@ -21,4 +21,4 @@
 
 хихихи хохохо
 
-[👉 Живая демо-страница с украшениями](https://ваш_username.github.io/kursov/)
+[👉 Живая демо-страница с украшениями](https://budumoyakot.github.io/kursov/)
